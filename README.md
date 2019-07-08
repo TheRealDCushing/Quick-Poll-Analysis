@@ -1,4 +1,4 @@
-# Basic analysis of poll data with Jupyter Notebook & Pandas:
+# Quick analysis with Jupyter Notebook & Pandas:
 
 Objective: To count votes cast in favor of various candidates from a dataset too large for Excel.
 
